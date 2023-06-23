@@ -1,0 +1,200 @@
+<hard_skills>
+     <name>Basic theory</name>
+    <subtopics>
+      <subtopic>What is testing</subtopic>
+      <subtopic>Bug reports</subtopic>
+      <subtopic>Documentation</subtopic>
+      <subtopic>Types of testing</subtopic>
+      <subtopic>Testing methods</subtopic>
+      <subtopic>Testing directions</subtopic>
+      <subtopic>SDLC</subtopic>
+      <subtopic>STLC</subtopic>
+    </subtopics>
+  	<name>Client-Server Architecture</name>
+        <name>HTTP Request Methods</name>
+    <methods>
+      <method>GET</method>
+      <method>POST</method>
+      <method>PUT</method>
+      <method>DELETE</method>
+      <method>PATCH</method>
+      <method>HEAD</method>
+      <method>OPTIONS</method>
+    </methods>
+    <name>HTTP Server Response Codes</name>
+    <codes>
+      <code type="1xx">Informational</code>
+      <code type="2xx">Success</code>
+      <code type="3xx">Redirection</code>
+      <code type="4xx">Client errors</code>
+      <code type="5xx">Server errors</code>
+    </codes>
+    <name>HTTP Request and Response Structures</name>
+    <name>JSON and XML</name>
+    <name>API Testing with Postman</name>
+    <subtopics>
+      <subtopic>JavaScript in Postman</subtopic>
+      <subtopic>API automated testing</subtopic>
+    </subtopics>
+    <name>Retrieving and Reading Logs from an External Server</name>
+    <name>Sniffing HTTP Web Traffic with Charles and Fiddler</name>
+    <name>Web Browser Dev Tools (Google Chrome, FireFox)</name>
+    <name>VPN</name>
+    <name>Mobile Testing</name>
+    <name>iOS and Android Specifics</name>
+    <subtopics>
+      <subtopic>iOS features and guidelines</subtopic>
+      <subtopic>Android features and guidelines</subtopic>
+    </subtopics>
+    <name>Building iOS Applications with Xcode</name>
+    <name>Building Android Applications with Android Studio</name>
+    <name>ADB (Android Debug Bridge)</name>
+    <name>Setting up Proxy and VPN on iOS and Android</name>
+    <name>Linux Command Line (Terminal)</name>
+    <name>Bash Scripting Basics and Server Automation</name>
+     <name>Client-Server Architecture</name>
+    <name>HTTP Request Methods</name>
+    <methods>
+      <method>GET</method>
+      <method>POST</method>
+      <method>PUT</method>
+      <method>DELETE</method>
+      <method>PATCH</method>
+      <method>HEAD</method>
+      <method>OPTIONS</method>
+    </methods>
+    <name>HTTP Server Response Codes</name>
+    <codes>
+      <code type="1xx">Informational</code>
+      <code type="2xx">Success</code>
+      <code type="3xx">Redirection</code>
+      <code type="4xx">Client errors</code>
+      <code type="5xx">Server errors</code>
+    </codes>
+    <name>HTTP Request and Response Structures</name>
+    <name>JSON and XML</name>
+    <name>API Testing with Postman</name>
+    <subtopics>
+      <subtopic>JavaScript in Postman</subtopic>
+      <subtopic>API automated testing</subtopic>
+    </subtopics>
+    <name>Retrieving and Reading Logs from an External Server</name>
+    <name>Sniffing HTTP Web Traffic with Charles and Fiddler</name>
+    <name>Web Browser Dev Tools (Google Chrome, FireFox)</name>
+    <name>VPN</name>
+    <name>Mobile Testing</name>
+    <name>iOS and Android Specifics</name>
+    <subtopics>
+      <subtopic>iOS features and guidelines</subtopic>
+      <subtopic>Android features and guidelines</subtopic>
+    </subtopics>
+    <name>Building iOS Applications with Xcode</name>
+    <name>Building Android Applications with Android Studio</name>
+    <name>ADB (Android Debug Bridge)</name>
+    <name>Setting up Proxy and VPN on iOS and Android</name>
+    <name>Mobile Traffic Intercept (Sniffing) with Charles and Fiddler on iOS and Android</name>
+    <name>Linux Command Line (Terminal)</name>
+    <name>Bash Scripting Basics and Server Automation</name>
+    <name>Client-Server Architecture</name>
+    <name>HTTP Request Methods</name>
+    <methods>
+      <method>GET</method>
+      <method>POST</method>
+      <method>PUT</method>
+      <method>DELETE</method>
+      <method>PATCH</method>
+      <method>HEAD</method>
+      <method>OPTIONS</method>
+    </methods>
+    <name>HTTP Server Response Codes</name>
+    <codes>
+      <code type="1xx">Informational</code>
+      <code type="2xx">Success</code>
+      <code type="3xx">Redirection</code>
+      <code type="4xx">Client errors</code>
+      <code type="5xx">Server errors</code>
+    </codes>
+    <name>HTTP Request and Response Structures</name>
+    <name>JSON and XML</name>
+    <name>API Testing with Postman</name>
+    <subtopics>
+      <subtopic>JavaScript in Postman</subtopic>
+      <subtopic>API automated testing</subtopic>
+    </subtopics>
+    <name>Retrieving and Reading Logs from an External Server</name>
+    <name>Sniffing HTTP Web Traffic with Charles and Fiddler</name>
+    <name>Web Browser Dev Tools (Google Chrome, FireFox)</name>
+    <name>VPN</name>
+    <name>Mobile Testing</name>
+    <name>iOS and Android Specifics</name>
+    <subtopics>
+      <subtopic>iOS features and guidelines</subtopic>
+      <subtopic>Android features and guidelines</subtopic>
+    </subtopics>
+    <name>Building iOS Applications with Xcode</name>
+    <name>Building Android Applications with Android Studio</name>
+    <name>ADB (Android Debug Bridge)</name>
+    <name>Setting up Proxy and VPN on iOS and Android</name>
+    <name>Mobile Traffic Intercept (Sniffing) with Charles and Fiddler on iOS and Android</name>
+    <name>Linux Command Line (Terminal)</name>
+    <name>Bash Scripting Basics and Server Automation</name>
+     <name>Client-Server Architecture</name>
+    <name>HTTP Request Methods</name>
+    <methods>
+      <method>GET</method>
+      <method>POST</method>
+      <method>PUT</method>
+      <method>DELETE</method>
+      <method>PATCH</method>
+      <method>HEAD</method>
+      <method>OPTIONS</method>
+    </methods>
+    <name>HTTP Server Response Codes</name>
+    <codes>
+      <code type="1xx">Informational</code>
+      <code type="2xx">Success</code>
+      <code type="3xx">Redirection</code>
+      <code type="4xx">Client errors</code>
+      <code type="5xx">Server errors</code>
+    </codes>
+<name>HTTP Request and Response Structures</name>
+    <name>JSON and XML</name>
+    <name>API Testing with Postman</name>
+    <subtopics>
+      <subtopic>JavaScript in Postman</subtopic>
+      <subtopic>API automated testing</subtopic>
+    </subtopics>
+    <name>Retrieving and Reading Logs from an External Server</name>
+    <name>Sniffing HTTP Web Traffic with Charles and Fiddler</name>
+    <name>Web Browser Dev Tools (Google Chrome, FireFox)</name>
+    <name>VPN</name>
+    <name>Mobile Testing</name>
+<name>iOS and Android Specifics</name>
+    <subtopics>
+      <subtopic>iOS features and guidelines</subtopic>
+      <subtopic>Android features and guidelines</subtopic>
+    </subtopics>
+    <name>Building iOS Applications with Xcode</name>
+    <name>Building Android Applications with Android Studio</name>
+    <name>ADB (Android Debug Bridge)</name>
+    <name>Setting up Proxy and VPN on iOS and Android</name>
+    <name>Mobile Traffic Intercept (Sniffing) with Charles and Fiddler on iOS and Android</name>
+    <name>Linux Command Line (Terminal)</name>
+    <name>Bash Scripting Basics and Server Automation</name>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
