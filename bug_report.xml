@@ -1,1 +1,22 @@
-
+<bug_report>
+  <bugId>12345</bugId>
+  <title>Error message displayed incorrectly</title>
+  <description>When clicking on the submit button without filling in any required fields, the error message is not displayed properly.</description>
+  <severity>High</severity>
+  <priority>Medium</priority>
+  <reportedBy>John Doe</reportedBy>
+  <dateReported>2023-06-23</dateReported>
+  <status>Open</status>
+  <assignedTo>Kate Shametska</assignedTo>
+  <stepsToReproduce>
+    <step>Go to the registration page</step>
+    <step>Leave all required fields empty</step>
+    <step>Click on the submit button</step>
+  </stepsToReproduce>
+  <expectedResult>An error message should be displayed indicating the required fields.</expectedResult>
+  <actualResult>No error message is shown.</actualResult>
+  <attachments>
+    <attachment>screenshot.png</attachment>
+    <attachment>log.txt</attachment>
+  </attachments>
+</bug_report>
